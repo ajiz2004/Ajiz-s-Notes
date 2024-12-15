@@ -1,0 +1,12 @@
+# .gitignore
+
+# Node modules
+node_modules/
+
+# .env file (if you have it)
+.env
+
+# Other files/folders to ignore
+/dist
+/build
+*.log
